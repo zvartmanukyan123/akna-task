@@ -1,0 +1,35 @@
+ .wrapper {
+    padding: 15px;
+    max-width: 550px;
+    line-height: 20px;
+    margin: 10px auto;
+    box-shadow: 1px 1px 5px #afaeae;
+} 
+
+.postImg {
+    width: 75px;
+    height: 75px;
+}
+
+.post {     
+    margin: 15px;
+}
+
+.postTitle {
+    margin-left: 15px;   
+}
+
+.commentsTitle {
+    margin-left:10px;
+}
+
+.commentImg {
+    width: 70px;
+    height: 70px;
+    float:left;
+}
+
+.commentInfo {
+    list-style-type: none
+}
+

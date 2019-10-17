@@ -1,0 +1,7 @@
+.tableHeader {
+    background-color: #2f2a41;
+}
+
+.MuiTableCell-head.tableHeaderTh {
+    color: #ffffff;
+}
